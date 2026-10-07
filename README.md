@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · deepikavijay56-max</sub></p>
 <h1>deepikavijay56-max</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
