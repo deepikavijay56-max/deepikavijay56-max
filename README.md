@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · HTML · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack engineer · TypeScript · HTML · CSS</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 1 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>75 contributions · 17 active days</p></td>
 </tr>
